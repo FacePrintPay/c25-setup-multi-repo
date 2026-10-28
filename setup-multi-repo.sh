@@ -53,3 +53,5 @@ chmod +x "$HOME"/.termux/tasker/*.sh
 cd "$MY_DIR" || exit 1
 rm -r "$MY_DIR/temp"
 echo "Setup auto-sync of '${REPO_NAME}' was successful! (multi-repo setup)"
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=setup-multi-repo.sh
